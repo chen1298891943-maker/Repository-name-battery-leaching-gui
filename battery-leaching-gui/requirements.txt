@@ -1,6 +1,6 @@
-pandas
-numpy
-scikit-learn
-catboost
-joblib
-streamlit
+pandas==2.3.3
+numpy==2.3.5
+scikit-learn==1.7.2
+catboost==1.2.10
+joblib==1.5.2
+streamlit==1.51.0
